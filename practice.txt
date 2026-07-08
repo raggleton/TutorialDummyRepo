@@ -1,1 +1,4 @@
-ha
+<<<<<<< HEAD
+Git practice change.
+=======
+>>>>>>> main
