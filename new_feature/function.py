@@ -1,4 +1,7 @@
 def harrys_function():
-    """does something"""
+"""
+New doc string
+does something
+"""
     print('hello')
 
